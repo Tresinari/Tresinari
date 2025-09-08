@@ -1,4 +1,4 @@
-<h2 align="left">13nari...<br>just4hobby</h2>
+<h2 align="left">13nari...</h2>
 
 ###
 
